@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793876861292,
+      "tag": "0000_trustvault_schema",
+      "breakpoints": true
+    }
+  ]
+}
